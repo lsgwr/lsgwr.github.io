@@ -2,16 +2,16 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://19920625lsg.github.io
+url: https://lsgwr.github.io
 date_format: "ordinal"
 title: 空无一悟
 subtitle: "微信公众号：空无一悟"
-description: "梁山广的个人博客，公众号：空无一悟"
-keywords: 梁山广, liangshanguang, 19920625lsg, oneline-exam, 空无一悟
+description: "个人博客，公众号：空无一悟"
+keywords: lsgwr, oneline-exam, 空无一悟
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
-repository: 19920625lsg/19920625lsg.github.io
+repository: lsgwr/lsgwr.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -38,12 +38,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Shanguang Liang
+author: lsgwr
 organization: 
 organization_url: 
-github_username: 19920625lsg
+github_username: lsgwr
 location: Shanghai, China
-email: liangshanguang2@gmail.com
+email: 1648266192@qq.com
 
 # ---------------- #
 #    Navigation    #
