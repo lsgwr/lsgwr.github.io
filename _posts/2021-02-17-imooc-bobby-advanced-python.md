@@ -8,3 +8,4 @@ keywords: Python, Advanced, Socket, Thread
 
 Python入门容器，深入难，bobby老师的[Python3高级核心技术97讲](https://coding.imooc.com/class/200.html)是一门非常好的课程，这里把自己的学习笔记记录下，放在了[lsgwr/python-ai/Python3高级核心技术97讲](https://gitee.com/lsgwr/python-ai/tree/master/Python3高级核心技术97讲)里面了
 
+> 待继续完善
