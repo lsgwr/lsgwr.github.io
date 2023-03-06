@@ -4,10 +4,10 @@
 baseurl:
 url: https://lsgwr.github.io
 date_format: "ordinal"
-title: 空无一悟
-subtitle: "微信公众号：空无一悟"
-description: "个人博客，公众号：空无一悟"
-keywords: lsgwr, oneline-exam, 空无一悟
+title: 空無一悟
+subtitle: "微信公众号：空無一悟"
+description: "个人博客，公众号：空無一悟"
+keywords: lsgwr, oneline-exam, 空無一悟
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
